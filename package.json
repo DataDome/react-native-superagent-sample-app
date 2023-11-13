@@ -14,7 +14,7 @@
     "@react-native-async-storage/async-storage": "^1.16.1",
     "async-barrier": "^1.0.0",
     "react": "16.13.1",
-    "react-native": "^0.67.4",
+    "react-native": "^0.72.6",
     "react-native-dotenv": "^3.4.7",
     "react-native-webview": "^11.17.2",
     "superagent": "^4.1.0"
